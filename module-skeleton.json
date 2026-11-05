@@ -1,0 +1,25 @@
+{
+  "repository": "module-jetstream-bridge-flutter",
+  "capabilityKey": "liberusoftware/jetstream-bridge",
+  "presentation": "mobile-flutter",
+  "package": "module_jetstream_bridge_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/jetstream-bridge.md",
+  "presentationPlan": "projects/boilerplate/flutter/jetstream-bridge.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
